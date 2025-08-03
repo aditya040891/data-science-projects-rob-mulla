@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+sentiment-analysis-of-amazon-reviews/archive/database.sqlite
+sentiment-analysis-of-amazon-reviews/archive/Reviews.csv
+
+
